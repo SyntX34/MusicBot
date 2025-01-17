@@ -101,8 +101,8 @@
 
 ## 🛠️ Installation
 
-1. Clone this repository using `git clone https://github.com/RainyXeon/ByteBlaze.git`
-2. run `cd ByteBlaze` to go to the **ByteBlaze** folder.
+1. Clone this repository using `git clone https://github.com/SyntX34/MusicBot.git`
+2. run `cd MusicBot` to go to the **MusicBot** folder.
 3. Config files:
    - Note: All type of config must fill `TOKEN`, `OWNER_ID` and `NODES`
    - If you want to use default config and have minimal config, change the name of **example.app.yml** to **app.yml**
